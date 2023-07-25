@@ -1,26 +1,15 @@
 # How to Use the Auto Money Bot
 
 ## Description
-Welcome to my awesome project! This repository contains a collection of tools designed to make life easier for developers. Whether you're a seasoned coder or just starting, there's something here for you.
+Follow these simple steps to set up and run the Auto Money Bot for boosting your Linkvertise revenue effortlessly.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+# Step 1: Set Up the Environment
+Before you begin, ensure you have Python installed on your system. The code is written in Python and requires version 3.6 or higher. You can download Python from the official website.
 
-## Installation
-To get started with this project, follow these simple steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Install dependencies: `npm install`
-3. Configure the settings in `config.js`
-
-## Usage
-Here are some examples of how to use our tools:
+# Step 2: Install Required Libraries
+To ensure the bot works smoothly, you need to install the necessary libraries. Open your terminal or command prompt and run the following command:
 
 ```python
-python script.py --option arg
+pip install discord.py```
+
+This will install the required library.
