@@ -10,6 +10,6 @@ Before you begin, ensure you have Python installed on your system. The code is w
 To ensure the bot works smoothly, you need to install the necessary libraries. Open your terminal or command prompt and run the following command:
 
 ```python
-pip install discord.py```
+pip install discord.py
 
-This will install the required library.
+# s
