@@ -1,4 +1,4 @@
-# My Awesome Project
+# How to Use the Auto Money Bot
 
 ## Description
 Welcome to my awesome project! This repository contains a collection of tools designed to make life easier for developers. Whether you're a seasoned coder or just starting, there's something here for you.
